@@ -63,13 +63,10 @@ It allows students to explore and register for campus events, and enables admini
 <img width="1262" height="884" alt="image" src="https://github.com/user-attachments/assets/bc3abae7-2647-4ded-a826-8e45aa40315c" />
 <img width="1281" height="859" alt="image" src="https://github.com/user-attachments/assets/72017d41-775b-4357-b082-1c253109dc9a" />
 
-to tun the app
->>cd C:\campus_events\campus_events
->> flutter clean
->> flutter pub get
->> flutter run -d chrome
+##to tun the app
+- >>cd C:\campus_events\campus_events
+- >> flutter clean
+- >> flutter pub get
+- >> flutter run -d chrome
 ---
-
-
-## 🧱 Firestore Data Structure
 
